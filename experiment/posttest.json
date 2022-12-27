@@ -1,39 +1,8 @@
-{
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+[{"question":"Under balanced condition, the current flowing through the detector is equal to","answers":{"a":"1 A","b":"0 A","c":"Sum of the currents flowing in the adjacent arms","d":"Difference between the current flowing in the adjacent arms"},"correctAnswer":"b"},
+{"question":"In Maxwell’s Inductance-Capacitance bridge, the frequency ω","answers":{"a":"Is directly proportional to the inductance in the balanced equation","b":"Is inversely proportional to the capacitance in the balanced equation","c":"Is directly proportional to the product of inductance and capacitance","d":"Does not appear in the balanced equations"},"correctAnswer":"d"},
+{"question":"The Maxwell’s Inductance-Capacitance bridge is not suitable for the measurement inductance of coil if the Q factor is","answers":{"a":"Less than 1","b":"Between 1 to 10","c":"More than 10","d":"Both (a) and (c)"},"correctAnswer":"d"},
+{"question":"The Q meter works on the principle of","answers":{"a":"Series resonance","b":"Parallel resonance","c":"Both (a) and (c)","d":"Neither series resonance nor parallel resonance"},"correctAnswer":"a"},
+{"question":"AC bridges are used for the measurement of","answers":{"a":"Resistances","b":"Resistances and Inductances","c":"Inductances and capacitances","d":"Resistances, inductances and capacitances"},"correctAnswer":"c"}]
+
+
+
