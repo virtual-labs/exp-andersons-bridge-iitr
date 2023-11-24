@@ -4,7 +4,7 @@
 <b>Discipline | <b>Electrical Engineering
 :--|:--|
 <b> Lab | <b> Electrical Measurements Lab
-<b> Experiment|     <b> Measurement of unknown inductance using Anderson’s Bridge.
+<b> Experiment|     <b>5. Measurement of unknown inductance using Anderson’s Bridge.
 
 ### About the Experiment 
 

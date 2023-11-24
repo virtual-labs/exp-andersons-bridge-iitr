@@ -1,47 +1,40 @@
-## Post test
+## Post Test
 #### Please attempt the following questions
 
-
 Q1. Under balanced condition, the current flowing through the detector is equal to<br>
-<br> 
-A   1 A<br>
-<b>B   0 A</b><br>
-C   Sum of the currents flowing in the adjacent arms<br>
-D   Difference between the current flowing in the adjacent arms<br>
-<br>
 
-Q2. In Maxwell’s Inductance-Capacitance bridge, the frequency ω<br> 
+a.   1 A<br>
+b.   0 A<br>
+c.   Sum of the currents flowing in the adjacent arms<br>
+d.   Difference between the current flowing in the adjacent arms<br>
+
+Q2. What is the significance of Anderson bridge with respect to Q factor?<br> 
  
-A   Is directly proportional to the inductance in the balanced equation<br>
-B   Is inversely proportional to the capacitance in the balanced equation<br>
-C   Is directly proportional to the product of inductance and capacitance<br>
-<b>D   Does not appear in the balanced equations</b><br>
-<br>
+a.   difficult to balance the bridge<br>
+b.   easy to balance the bridge<br>
+c.   intermediate balance can be achieved<br>
+d.   no balance can be done<br>
 
-Q3. The Maxwell’s Inductance-Capacitance bridge is not suitable for the measurement inductance of coil if the Q factor is<br>
+Q3. Which one of the following is a frequency sensitive bridge?<br>
  
-A   Less than 1<br>
-B   Between 1 to 10<br>
-C   More than 10<br>
-<b>D   Both (a) and (c)</b><br>
-<br>
+a.   Maxwell bridge<br>
+b.   De Sauty bridge<br>
+c.   Wien bridge<br>
+d.   Schering bridge<br>
 
+Q4. The accuracy of a bridge depends on the<br>
 
-Q4. The Q meter works on the principle of<br>
-
-<b>A   Series resonance</b><br>
-B   Parallel resonance<br>
-C   Both (a) and (c)<br>
-D   Neither series resonance nor parallel resonance<br>
-<br>
-
+a.   null indicator<br>
+b.   voltage source<br>
+c.   current source<br>
+d.   bridge components<br>
 
 Q5. AC bridges are used for the measurement of<br>
 
-A   Resistances<br>
-B   Resistances and Inductances<br>
-<b>C   Inductances and capacitances</b><br>
-D   Resistances, inductances and capacitances<br><br>
+a.   Resistance, inductance and capacitance<br>
+b.   Resistance and Inductance<br>
+c.   Inductance and capacitance<br>
+d.   Resistance<br>
 
 
 
