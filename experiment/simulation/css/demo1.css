@@ -1,7 +1,8 @@
 .demo {
     /* for IE10+ touch devices */
-    touch-action:none;
+    touch-action: none;
 }
+
 /** JSPLUMB ARTEFACTS **/
 .jtk-overlay {
     z-index: 51;
@@ -17,11 +18,10 @@
 }
 
 /** ELEMENTS **/
-.littledot
-{
+.littledot {
     cursor: pointer;
     width: 12px;
-    height: 12px;   
+    height: 12px;
     z-index: 5;
     position: absolute;
     border-radius: 31px;
@@ -35,88 +35,99 @@
 .dropHover {
     border: 1px solid orange;
 }
-.button{
-background-color: #4CAF50; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
 
 /** ELEMENT POSITIONS **/
 #ld1 {
-    top: 18em;
-    left: 24em;
+    top: 16.2em;
+    left: 23.4em;
 }
 
 #ld2 {
-    top: 18em;
-    left: 29em;
+    top: 16.2em;
+    left: 27.5em;
 }
 
 #ld3 {
-    top: 34.5em;
-    left: 9.5em;
+    top: 33.5em;
+    left: 8.9em;
 }
 
 #ld4 {
-    top: 34.5em;
-    left: 16.5em;
+    top: 33.5em;
+    left: 15.8em;
 }
 
 #ld5 {
     top: 22em;
-  left: 45.7em;
+    left: 44.9em;
 }
+
 #ld6 {
     top: 13.5em;
-    left: 45.7em;
+    left: 44.95em;
 }
+
 #ld7 {
-    top: 20.8em;
-    left: 58em;
+    top: 20em;
+    left: 57.4em;
 }
+
 #ld8 {
-    top: 23.8em;
-    left: 54.8em;
+    top: 23em;
+    left: 54.1em;
 }
+
 #ld9 {
-    top: 18em;
-    left: 54.8em;
+    top: 17em;
+    left: 54.1em;
 }
+
 #ld10 {
     top: 18.6em;
-    left: 2em;
+    left: 2.5em;
 }
+
 #ld11 {
     top: 18.6em;
-    left: 4.6em;
+    left: 5.2em;
 }
+
 #ld12 {
     top: 23em;
     left: 10em;
 }
+
 #ld13 {
     top: 26em;
     left: 10em;
 }
 
 #ld14 {
-    top: 19.5em;
+    top: 18.6em;
     left: 10em;
 }
+
 #ld15 {
-    top: 19.5em;
-    left: 17.5em;
+    top: 18.6em;
+    left: 17em;
 }
 
 
 
-path, .jtk-endpoint {
+path,
+.jtk-endpoint {
     cursor: pointer;
 }
