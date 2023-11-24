@@ -1,1 +1,1 @@
-## Experiment name
+## Measurement of unknown inductance using Anderson’s Bridge.
