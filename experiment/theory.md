@@ -1,4 +1,11 @@
-## Introduction
+<head>
+
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> 
+  
+</script>
+
+</head>
+### Introduction
 
 <div style="text-align: justify; font-size: 18px;font-family: 'Nunito Sans',sans-serif;">
 The Anderson’s bridge gives the accurate measurement of self-inductance of the circuit. The bridge is the advanced form of Maxwell’s inductance capacitance bridge. In Anderson bridge, the unknown inductance is compared with the standard fixed capacitance which is connected between the two arms of the bridge.
@@ -24,13 +31,13 @@ At balance Condition,
 
 <center>
 
-$I_1 = I_3$
+$$I_1 = I_3$$
 
 </center>
 
 <center>
 
-$I_2 = I_C + I_4$
+$$I_2 = I_C + I_4$$
 
 </center>
 
@@ -38,13 +45,13 @@ Now,
 
 <center>
 
-$I_1R_3 = I_C × \frac{1}{jωC}$
+$$I_1R_3 = I_C × \frac{1}{jωC}$$
 
 </center>
 
 <center>
 
-$I_C = I_1jωCR_3$
+$$I_C = I_1jωCR_3$$
 
 </center>
 
@@ -52,13 +59,13 @@ The other balance condition equation is expressed as
 
 <center>
 
-$I_1(r_1 + R_1 + jωL_1) = I_2R_2 + I_Cr$
+$$I_1(r_1 + R_1 + jωL_1) = I_2R_2 + I_Cr$$
 
 </center>
 
 <center>
 
-$I_C \left (r + \frac{1}{jωC} \right ) = (I_2 - I_C)R_4$
+$$I_C \left (r + \frac{1}{jωC} \right ) = (I_2 - I_C)R_4$$
 
 </center>
 
@@ -66,13 +73,13 @@ By substituting the value of I<sub>c</sub> in the above equation we get,
 
 <center>
 
-$I_1(r_1 + R_1 + jωL_1) = I_2R_2 + I_1jωCR_3r$
+$$I_1(r_1 + R_1 + jωL_1) = I_2R_2 + I_1jωCR_3r$$
 
 </center>
 
 <center>
 
-$I_1(r_1 + R_1 + jωL_1 - jωCR_3r) = I_2R_2$
+$$I_1(r_1 + R_1 + jωL_1 - jωCR_3r) = I_2R_2$$
 
 </center>
 
@@ -80,7 +87,7 @@ and
 
 <center>
 
-$I_1(R_3 + jωR_3R_4 + jωCR_3r) = I_2R_4$
+$$I_1(R_3 + jωR_3R_4 + jωCR_3r) = I_2R_4$$
 
 </center>
 
@@ -88,7 +95,7 @@ on equating the equation, we get
 
 <center>
 
-$I_1(r_1 + R_1 + jωL_1 - jωCR_3r) = I_1 \left (\frac{R_1R_2}{R_3}+\frac{jωCR_3rR_2}{R_4}+jωCR_3R_2 \right )$
+$$I_1(r_1 + R_1 + jωL_1 - jωCR_3r) = I_1 \left (\frac{R_1R_2}{R_3}+\frac{jωCR_3rR_2}{R_4}+jωCR_3R_2 \right )$$
 
 </center>
 
@@ -96,13 +103,13 @@ Equating the real and the imaginary part, we get
 
 <center>
 
-$R_1 = \frac{R_1R_3}{R_4} - r_1$
+$$R_1 = \frac{R_1R_3}{R_4} - r_1$$
 
 </center>
 
 <center>
 
-$L_1 = C\frac{R_3}{R_4} \left [4(R_4 + R_2) + R_2R_4 \right ]$
+$$L_1 = C\frac{R_3}{R_4} \left [4(R_4 + R_2) + R_2R_4 \right ]$$
 
 </center>
 
