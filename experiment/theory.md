@@ -1,16 +1,16 @@
 <head>
-
 <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> 
-  
 </script>
-
 </head>
-### Introduction
+
 
 <div style="text-align: justify; font-size: 18px;font-family: 'Nunito Sans',sans-serif;">
+<h3>Introduction</h3>
+  
 The Anderson’s bridge gives the accurate measurement of self-inductance of the circuit. The bridge is the advanced form of Maxwell’s inductance capacitance bridge. In Anderson bridge, the unknown inductance is compared with the standard fixed capacitance which is connected between the two arms of the bridge.
 
 ### Construction of Anderson’s Bridge
+
 The bridge has fours arms ab, bc, cd and ad. The arm ab consists unknown inductance along with the resistance. And the other three arms consist the purely resistive arms connected in series with the circuit.
 
 <center>
