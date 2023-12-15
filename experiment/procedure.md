@@ -1,5 +1,3 @@
-## Procedure<br>
-
 **STEP 1 :** Make Connections as per the instructions given below: 
 1.    <b>M<sub>1</sub></b> of MCB - <b>P<sub>1</sub></b> of Power & <b>M<sub>2</sub></b> of MCB - <b>P<sub>2</sub></b> of Power
 2.    <b>OS<sub>1</sub></b> of Oscillator - <b>OS<sub>3</sub></b> of Oscillator & <b>OS<sub>2</sub></b> of Oscillator - <b>OS<sub>4</sub></b> of Oscillator
