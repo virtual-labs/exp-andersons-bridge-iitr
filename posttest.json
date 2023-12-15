@@ -1,0 +1,8 @@
+[{"question":"Under balanced condition, the current flowing through the detector is equal to","answers":{"a":"1 A","b":"0 A","c":"Sum of the currents flowing in the adjacent arms","d":"Difference between the current flowing in the adjacent arms"},"correctAnswer":"b"},
+{"question":"What is the significance of Anderson bridge with respect to Q factor?","answers":{"a":"difficult to balance the bridge","b":"easy to balance the bridge","c":" intermediate balance can be achieved","d":" no balance can be done"},"correctAnswer":"b"},
+{"question":"Which one of the following is a frequency sensitive bridge?","answers":{"a":"Maxwell bridge","b":"De Sauty bridge","c":"Wien bridge","d":"Schering bridge"},"correctAnswer":"c"},
+{"question":"The accuracy of a bridge depends on the","answers":{"a":"null indicator","b":"voltage source","c":"current source","d":"bridge components"},"correctAnswer":"d"},
+{"question":"AC bridges are used for the measurement of","answers":{"a":"Resistance, inductance and capacitance","b":"Resistance and Inductance","c":"Inductance and capacitance","d":"Resistance"},"correctAnswer":"a"}]
+
+
+
