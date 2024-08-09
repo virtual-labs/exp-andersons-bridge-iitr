@@ -1,0 +1,5 @@
+[{"question":"AC bridges are used for the measurement of","answers":{"a":"Resistance","b":"Resistance and Inductance","c":"Inductance and capacitance","d":"Resistance, inductance and capacitance"},"correctAnswer":"c"},
+{"question":"The commonly used detectors in ac bridges is/are","answers":{"a":"Headphones","b":"Galvanometers","c":"Tuned amplifiers, Headphones","d":"Headphones, Tuned amplifiers, Galvanometers"},"correctAnswer":"d"},
+{"question":"The vibration galvanometers are sensitive to power for frequency range of","answers":{"a":"200 Hz and below","b":"200 Hz to about 4 KHz","c":"4 KHz and above","d":"Any frequency"},"correctAnswer":"a"},
+{"question":"The vibration galvanometer used as detector, it responds","answers":{"a":"Only to the fundamental frequency","b":"Only to the harmonics frequency","c":"Both (a) and (b)","d":"Does not respond to any frequency"},"correctAnswer":"a"},
+{"question":"The AC Bridge used for the measurement of inductance is/are","answers":{"a":"Maxwell’s inductance bridge","b":"Hay’s bridge","c":"Anderson’s bridge, Owen’s bridge","d":"All of the above"},"correctAnswer":"d"}]
