@@ -109,7 +109,7 @@ $$R_1 = \frac{R_1R_3}{R_4} - r_1$$
 
 <center>
 
-$$L_1 = C\frac{R_3}{R_4} \left [4(R_4 + R_2) + R_2R_4 \right ]$$
+$$L_1 = C\frac{R_3}{R_4} \left [r(R_4 + R_2) + R_2R_4 \right ]$$
 
 </center>
 
